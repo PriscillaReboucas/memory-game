@@ -1,4 +1,4 @@
-// metodos estáticos não usam o this, por isso não vamos colocar util dentro do construtor
+// metodos estáticos não usam o this, por isso não vou colocar util dentro do construtor
 const util = Util //boa prática
 
 const ID_CONTEUDO= "conteudo"
